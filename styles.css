@@ -6,15 +6,27 @@ body {
 	margin:20px auto;
 	text-align:center;
 	background-color:#ffffff;
+	max-width:600px;
+	padding:20px;
+	
 }
 .green {
 
 	background-color:green;
+	color:white;
+	padding:5px 10px;
+	display:inline-block;
+	border-radius:3px;
 }
-.box {
-	height:200px;
+.book {
+	border:1px solid #ddd;
+	margin:15px auto;
+	padding:10px;
+	background-color:#fff;
+	border-radius:5px;
 }
 
 .text {
 	text-align:left;
+	margin:10px 0;
 }
